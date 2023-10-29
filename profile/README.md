@@ -34,10 +34,9 @@
 Нам важно делиться экспертизой: мы регулярно ведём блог на Хабре, записываем подкасты, организуем митапы и выступаем на конференциях.
 
 ##### Узнать больше:
-+ [Сайт Ozon Tech](https://tech.ozon.ru/)
++ [Сайт Ozon Tech](https://ozon.tech/)
 + [Хабр](https://habr.com/ru/company/ozontech/blog/)
 + [Вакансии](https://job.ozon.ru/it/)
-+ [Стажировки](https://ozon.dev/internship)
++ [Стажировки](https://ozon.tech/routestart/)
 + [Route 256](https://route256.ozon.ru/) — школа обучения Go, C#, QA и фронтенду
-+ [Канал на YouTube](https://www.youtube.com/channel/UCCqNFXg3NRbRA6qNKFRecdw)
-
++ [Канал на YouTube](https://youtube.com/@OzonTech1998/)
