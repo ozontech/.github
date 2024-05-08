@@ -1,4 +1,4 @@
-![](/assets/images/vk_cover.jpg)
+![](/assets/images/Cover.png)
 
 # Ozon Tech — это команда разработки лидирующего e-com в России
 
