@@ -36,6 +36,6 @@
 + [Хабр](https://habr.com/ru/company/ozontech/blog/)
 + [Вакансии](https://job.ozon.ru/it/)
 + [Стажировки](https://ozon.dev/internship)
-+ [Route 256](https://route256.ozon.ru/) — школа обучения Go, C#, QA и фронтенду
++ [Route 256](https://route256.ozon.ru/) — школа обучения Go, C#, QA
 + [Канал на YouTube](https://www.youtube.com/channel/UCCqNFXg3NRbRA6qNKFRecdw)
 
