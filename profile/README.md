@@ -23,7 +23,7 @@
 
 **QA**: Go, Python, C#, TypeScript, Allure, Swift, Kotlin
 
-**Data**: PostgreSQL, ClickHouse, Kafka, Memcached, Redis, Ceph, Vertica, Hadoop, Airflow
+**Data**: PostgreSQL, ClickHouse, Kafka, Memcached, Redis, Ceph, Hadoop, Airflow
 
 **Infrastructure**: Docker, K8s, S3, NGINX, CI/CD
 
