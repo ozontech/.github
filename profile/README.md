@@ -5,36 +5,37 @@
 Когда на рынке нет подходящих решений, мы разрабатываем собственные. Нам важно делиться экспертизой, поэтому мы здесь. 
 
 У нас:
-+ 6К+ микросервисов, высокая доступность, отказоустойчивость, горизонтальное масштабирование, распределение нагрузки;
-+ Уникальный и сложный highload: до 4,3К заказов в секунду и до 175К RPS к бэкенду с мобильных приложений и сайта;
++ 7К микросервисов, высокая доступность, отказоустойчивость, горизонтальное масштабирование, распределение нагрузки;
++ Уникальный и сложный highload: до 6.9К оформленных заказов в секунду и до 382К RPS к бэкенду с мобильных приложений и сайта;
 + 3 ЦОДа, 10К+ серверов и стораджей — у нас одна из крупнейших в РФ IT-платформа.
-+ Суммарный объём аналитических хранилищ 51 PB.
++ Суммарный объём аналитических хранилищ 60 PB.
 
 У нас высокая инженерная культура — используем лучшие практики для построения внутренней инфраструктуры и исповедуем концепцию Everything as code: минимум ручных действий, максимум автоматизации. Поддерживаем проекты красиво, эффективно и глобально: Ozon представлен на рынках восьми стран.
 
 **Под капотом у Ozon Tech:**
 
-**Backend**: Go, С#, Java
+**Backend**: Go, С#, Python
 
-**Frontend**: Vue.js, TypeScript, JSX, TSX, Node.js
+**Frontend**: Vue.js, TypeScript, TSX, NUXT
 
-**Mobile**: Swift, Kotlin
+**Mobile**: Swift, Kotlin, Appium
 
-**QA**: Go, Python, C#, TypeScript, Allure, Swift, Kotlin
+**ML/DS**: Jupiter, Python, Go
 
-**Data**: PostgreSQL, ClickHouse, Kafka, Memcached, Redis, Ceph, Hadoop, Airflow
+**QA**: Go, Python, TypeScript, Allure, Pytest, Playwright, Allure-Go 
 
-**Infrastructure**: Docker, K8s, S3, NGINX, CI/CD
+**Data**: PostgreSQL, ClickHouse, Scylladb, Kafka, Memcached, Redis, Hadoop, Airflow, Lusca (внутренняя разработка)
 
-**Observability**: Prometheus, Thanos, OpenTelemetry, Jaeger, Grafana, Graylog
+**Infrastructure**: Docker, K8s, NGINX, Gitlab, Argo CD, Republic (внутренняя разработка)
 
-**Процессы**: GitLab, Jira, Confluence
+**SRE/Observability**: Prometheus, Thanos, OpenTelemetry, Grafana, File.d, Seq-db, Opszone, Alerts-registry, Vision (внутренние разработки)
+
 
 ##### Узнать больше:
 + [Сайт Ozon Tech](https://tech.ozon.ru/)
 + [Хабр](https://habr.com/ru/company/ozontech/blog/)
 + [Вакансии](https://job.ozon.ru/it/)
 + [Стажировки](https://ozon.dev/internship)
-+ [Route 256](https://route256.ozon.ru/) — школа обучения Go, C#, QA
++ [Route 256](https://route256.ozon.ru/) — курсы для разработчиков по Go, C#, QA
 + [Канал на YouTube](https://www.youtube.com/channel/UCCqNFXg3NRbRA6qNKFRecdw)
 
