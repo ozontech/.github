@@ -24,7 +24,7 @@
 
 **QA**: Go, Python, TypeScript, Allure, Pytest, Playwright, Allure-Go 
 
-**Data**: PostgreSQL, ClickHouse, Scylladb, Kafka, Memcached, Redis, Hadoop, Airflow, Lusca (внутренняя разработка)
+**Data**: PostgreSQL, ClickHouse, Scylladb, Kafka, Memcached, Redis, Hadoop, Airflow, PgDoorman, Lusca (внутренняя разработка)
 
 **Infrastructure**: Docker, K8s, NGINX, Gitlab, Argo CD, Republic (внутренняя разработка)
 
