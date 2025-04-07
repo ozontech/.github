@@ -14,7 +14,7 @@
 
 **Под капотом у Ozon Tech:**
 
-**Backend**: Go, С#, Python
+**Backend**: Go, С#, Python, Java
 
 **Frontend**: Vue.js, TypeScript, NUXT
 
