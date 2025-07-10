@@ -1,4 +1,4 @@
-![](/assets/images/cover.png)
+![](/assets/images/Github_cover.png)
 
 # Ozon Tech — это команда разработки ведущего e-com в России
 
