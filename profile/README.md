@@ -20,9 +20,11 @@
 
 **Mobile**: Swift, Kotlin, Appium
 
+**Учётные системы**: 1С
+
 **ML/DS**: Jupiter, Python, Go
 
-**QA**: Go, Python, TypeScript, Allure, Pytest, Playwright, Allure-Go 
+**QA**: Go, Python, TypeScript, APPIUM, Pytest, Playwright, Allure-Go, BUGSTON 
 
 **Data**: PostgreSQL, ClickHouse, Scylladb, Kafka, Memcached, Redis, Hadoop, Airflow, PgDoorman, Lusca (внутренняя разработка)
 
