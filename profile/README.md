@@ -18,7 +18,7 @@
 
 **Backend**: Go, С#, Python, Java
 
-**Frontend**: Vue.js, TypeScript, NUXT
+**Frontend**: TypeScript, Vue.js, NUXT
 
 **Mobile**: Swift, Kotlin, Appium
 
