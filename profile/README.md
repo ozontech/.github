@@ -1,4 +1,3 @@
-![](/assets/images/Github_cover_11_2025.png)
 ![image alt](https://github.com/ozontech/.github/blob/3af46cdba73bcdc51005ce2ef3865d98f4babb98/assets/images/github_26.png)
 
 # Ozon Tech — это команда разработки ведущего e-com в России
