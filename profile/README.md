@@ -6,7 +6,7 @@
 
 У нас:
 Высокая доступность, отказоустойчивость, горизонтальное масштабирование, распределение нагрузки;
-+ Уникальный и сложный highload: 1 970 000 RPS пик обработанных запросов на 1 квартал 2026;
++ Уникальный и сложный highload: 1 970 000 RPS пик обработанных запросов на 1 квартал 2026.
 + 4 ЦОДа, 13К+ серверов — у нас одна из крупнейших в РФ IT-платформа.
 + Суммарный объём аналитических хранилищ 100 PB.
 + 2 кластера по 20 000 TFlops — мощность собственного суперкомпьютера.
@@ -28,11 +28,11 @@
 
 **QA**: Go, Python, TypeScript, APPIUM, Pytest, Playwright, Allure-Go, BUGSTON 
 
-**Data**: PostgreSQL, ClickHouse, Scylladb, Kafka, Memcached, Redis, Hadoop, Airflow, PgDoorman, Lusca (внутренняя разработка)
+**Data**: PostgreSQL, ClickHouse, Cassandra, Trino, Kafka, Memcached, Redis, Hadoop, Airflow, PgDoorman, Lusca (внутренняя разработка)
 
 **Infrastructure**: Docker, K8s, NGINX, Gitlab, Argo CD, Republic (внутренняя разработка)
 
-**SRE/Observability**: Prometheus, Thanos, OpenTelemetry, Grafana, File.d, Seq-db, Opszone, Alerts-registry, Vision (внутренние разработки)
+**SRE/Observability**: Prometheus, Thanos, OpenTelemetry, Grafana, File.d, Seq-db, Seq-ui, Opszone, Alerts-registry, Vision (внутренние разработки)
 
 
 ##### Узнать больше:
